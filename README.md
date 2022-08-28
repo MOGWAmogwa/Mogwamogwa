@@ -6,7 +6,6 @@
 
 <img align="right" width="300px" src="https://user-images.githubusercontent.com/79387913/187060773-18bb12f1-9891-4a98-acf7-ad4bae1994f0.gif">
 
-<br>
 
 - 🔭 I’m currently working on **Virus Project**
 
@@ -20,7 +19,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MOGWAmogwa&show_icons=true&theme=flag-india)
 <br>
-<br>
+<br><br>
 
 <h3 align="left">Connect with me ✨</h3>
 <p align="left">
