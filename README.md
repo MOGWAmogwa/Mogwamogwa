@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **hongbin9696@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
-
 - 💖  **I'd appreciate you visit my github.**
 
 <br>
