@@ -3,7 +3,7 @@
 <h3 align="center">A passionate backend developer from Korea</h3>
 
 
-<img align="right" width="400px" src="https://user-images.githubusercontent.com/79387913/187060773-18bb12f1-9891-4a98-acf7-ad4bae1994f0.gif">
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/79387913/187060773-18bb12f1-9891-4a98-acf7-ad4bae1994f0.gif">
 
 <br>
 
