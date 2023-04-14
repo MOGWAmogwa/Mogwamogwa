@@ -4,7 +4,7 @@
 
 <br>
 
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/79387913/231925281-4fd4f1fa-945a-4560-88d5-8f63f347c8f8.gif">
+<img align="right"  height="400px"  src="https://user-images.githubusercontent.com/79387913/231925281-4fd4f1fa-945a-4560-88d5-8f63f347c8f8.gif">
 
 
 - 🔭 I’m currently working on **Nectar Project**
