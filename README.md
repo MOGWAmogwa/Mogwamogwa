@@ -4,10 +4,10 @@
 
 <br>
 
-<img align="right" width="300px" src="https://user-images.githubusercontent.com/79387913/187060773-18bb12f1-9891-4a98-acf7-ad4bae1994f0.gif">
+<img align="right" width="300px" src="https://user-images.githubusercontent.com/79387913/231925281-4fd4f1fa-945a-4560-88d5-8f63f347c8f8.gif">
 
 
-- 🔭 I’m currently working on **Virus Project**
+- 🔭 I’m currently working on **Nectar Project**
 
 - 🌱 I’m currently learning **Java**
 
